@@ -6,7 +6,7 @@
 **Example:**  
 `POST http://localhost:5000/api/trips/2/clients`
 
-**Request Body:**
+**Example Body:**
 
 ```json
 {
